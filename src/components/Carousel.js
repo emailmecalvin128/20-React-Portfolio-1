@@ -2,9 +2,9 @@ import React from 'react';
 
 import Card from '../components/Card';
 
-import devgrub from '../assets/images/P1.png';
-import youtube from '../assets/images/P2.png';
-import evverest from '../assets/images/P3.png';
+import from '../assets/images/P1.png';
+import from '../assets/images/P2.png';
+import from '../assets/images/P3.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
